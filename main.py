@@ -15,8 +15,8 @@ PASSWORD = 'Gqsai123 Gqsai123'  # 这里填密码
 # TrueCaptcha https://apitruecaptcha.org
 # https://gist.github.com/ZetaoYang/e182453efadc90739a14daf2bd829087
 # 验证码识别，默认使用 Demo API，每天有100次免费额度，建议自行注册以确保稳定性
-TRUECAPTCHA_USERID = 'arun56'
-TRUECAPTCHA_APIKEY = 'wMjXmBIcHcdYqO2RrsVN'
+TRUECAPTCHA_USERID = 'lzdwin'
+TRUECAPTCHA_APIKEY = 'cJGO46VOZ94yW4CjGonZ'
 TRUECAPTCHA_CHECK_USAGE = True
 
 # Server酱 http://sc.ftqq.com/?c=code
